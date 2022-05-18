@@ -1,0 +1,26 @@
+[
+    {
+        "ID" : "1",
+        "Title" : "Mencari Jalan Keluar Pecandu Narkotika",
+        "Author" : "Fathurrohman",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art1.jpg",
+        "Content" : "Rashi K. Shukla (2016) dalam bukunya Methamphetamine: brilian empat tahun...",
+        "markdown": "article_1.md"
+    },
+    {
+        "ID" : "2",
+        "Title" : "Ancaman Narkoba ditengah Pnaddemic",
+        "Author" : "Humas BNN",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art2.jpg",
+        "Content" : "Rashi K. Shukla (2016) dalam bukunya Methamphetamine: dengan brilian empat tahun...",
+        "markdown": "article_2.md"
+    },
+    {
+        "ID" : "3",
+        "Title" : "Penerapan Cyber Extension dalam Penyuluhan Narkoba di Masa Pandemi Covid 19",
+        "Author" : "Humas BNN",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art3.jpg",
+        "Content" : "Penyuluh Narkoba adalah ujung tombak upaya pencegahan penyalahgunaan Narkoba kepada masyarakat...",
+        "markdown": "article_3.md"
+    }
+]
