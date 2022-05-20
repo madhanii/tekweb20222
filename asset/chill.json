@@ -1,0 +1,26 @@
+[
+    {
+        "ID" : "1",
+        "Title" : "Bahaya Merokok",
+        "Author" : "Fathurrohman",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art1.jpg",
+        "Content" : "Zaman sekarang siapa sih yang tidak mengenal zat...",
+        "markdown": "article_1.md"
+    },
+    {
+        "ID" : "2",
+        "Title" : "Bahaya Seks Bebas",
+        "Author" : "Humas BNN",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art2.jpg",
+        "Content" : "Istilah seks bebas semakin akrab kita jumpai...",
+        "markdown": "article_2.md"
+    },
+    {
+        "ID" : "3",
+        "Title" : "Narkoba Merusak Generasi Bangsa",
+        "Author" : "Humas BNN",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art3.jpg",
+        "Content" : "Saat ini dampak narkoba atau narkotika dan obat obatan pada...",
+        "markdown": "article_3.md"
+    }
+]
