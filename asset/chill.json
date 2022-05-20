@@ -1,0 +1,26 @@
+[
+    {
+        "ID" : "1",
+        "Title" : "Bahaya Merokok",
+        "Author" : "Fathurrohman",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art1.jpg",
+        "Content" : "Merokok adalah kebiasaan menghisap rokok yang dilakukan...",
+        "markdown": "article_1.md"
+    },
+    {
+        "ID" : "2",
+        "Title" : "Bahaya Seks Bebas",
+        "Author" : "Humas BNN",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art2.jpg",
+        "Content" : "Menghindari seks bebas Para ahli berpendapat...",
+        "markdown": "article_2.md"
+    },
+    {
+        "ID" : "3",
+        "Title" : "Narkoba Merusak Generasi ",
+        "Author" : "Humas BNN",
+        "Thumbnail" : "https://raw.githubusercontent.com/madhanii/tekweb20222/main/images/art3.jpg",
+        "Content" : "Penyuluh Narkoba adalah ujung tombak upaya pencegahan penyalahgunaan Narkoba...",
+        "markdown": "article_3.md"
+    }
+]
