@@ -2,14 +2,15 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    scroll-behavior:smooth;
 }
-
+body{
+    overflow-x: hidden ;
+}
 .hero{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: #eff4fd;
+    background: linear-gradient(17deg,#13a2ca 0%, #ed9122 100%);
     position: relative;
 }
 
@@ -60,7 +61,7 @@ span{
 }
 
 .detel p{
-    color: #555;
+    color: rgb(255, 255, 255);
     line-height: 22px;
     font-family: 'Bebas Neue', cursive;
 }
@@ -124,9 +125,9 @@ span{
 	grid-template-columns: auto auto auto;
 	position: relative;
 	align-items: center;
-	grid-gap: 70px;
+	grid-gap: 10px;
 	text-align: center;
-	margin-left: 12%;
+	margin-left: 5%;
     margin-bottom: 50%;
 }
 
@@ -152,15 +153,20 @@ span{
 }
 
 .poster{
-	height: 600px;
-	width: 400px;
-	background-color: rgb(239, 244, 253);
+	height: 500px;
+	width: 300px;
+	background: rgba( 245, 166, 35, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5px );
+-webkit-backdrop-filter: blur( 5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
 	border-radius: 10px;
 	transform:translateY(130px);
 }
 .poster img{
 	height: 300px;
-	width: 400px;
+	width: 300px;
 	border-radius: 10px;
 	margin-top: 0px;
 }
@@ -188,4 +194,9 @@ span{
 
 .judul h1{
     font-weight: bolder;
+}
+.content{
+    background: linear-gradient(160deg,#13a2ca 0%, #ed9122 100%);
+    background-blend-mode: screen;
+    min-height: 800px;
 }
